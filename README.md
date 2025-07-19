@@ -1,8 +1,4 @@
 
-Here’s your **Calmspace** project write-up, rewritten in a clean and professional format—perfect for README.md or documentation purposes:
-
----
-
 # 🧘‍♀️ Calmspace – Your Personal Sanctuary for Mindfulness 🌿
 
 ***“Inhale peace, exhale stress.”***
